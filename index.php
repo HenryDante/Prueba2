@@ -10,7 +10,7 @@
 		background-color: blue;
 	}
 	p{
-		background-color: silver;
+		background-color: yellow;
 	}
 </style>
 <body>
