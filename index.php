@@ -22,6 +22,7 @@
 	<p>En este nueva actualizacion hablaremos un poco de....</p>
 	<h4>Ahorita esta funcionando todo a la perfeccion</h4>
 	<h3>Probemos haci a ver que tal</h3>
+	<h1>Este div fue creado desde la master</h1>
 	</div>
 	<div>
 		<p>Esto sera para default</p>
