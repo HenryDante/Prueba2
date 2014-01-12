@@ -25,6 +25,7 @@
 	</div>
 	<div>
 		<p>Esto sera para default</p>
+		<h1>Hola este es un simple div creado desde el brach default</h1>
 	</div>
 </body>
 </html>
