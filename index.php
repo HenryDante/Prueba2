@@ -9,6 +9,9 @@
 	h1{
 		background-color: blue;
 	}
+	p{
+		background-color: silver;
+	}
 </style>
 <body>
 	<h1>Bienvenido al mundo GitHub</h1>
