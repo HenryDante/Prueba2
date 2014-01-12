@@ -20,7 +20,5 @@
 	<h3>Modificandolo desde el default</h3>
 	<p>En este nueva actualizacion hablaremos un poco de....</p>
 	<h4>Ahorita esta funcionando todo a la perfeccion</h4>
-	<h1>VAYA TODO FUNCIONA BIEN HASTA AHORITA</h1>
-	<h5>veamos pues</h5>
 </body>
 </html>
